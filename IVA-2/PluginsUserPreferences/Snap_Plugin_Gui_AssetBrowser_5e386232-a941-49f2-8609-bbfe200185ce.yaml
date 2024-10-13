@@ -1,0 +1,11 @@
+CollapsedEntities:
+  type: stringset
+  value:
+    size: 5
+    values:
+      - Script.js
+      - SpectaclesInteractionKit/package.native
+      - Sphere 1.prefab
+      - Sphere 2.prefab
+      - Untitled TypeScript.ts
+  options: 4

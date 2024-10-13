@@ -1,0 +1,13 @@
+CollapsedEntities:
+  type: stringset
+  value:
+    size: 7
+    values:
+      - Echopark.hdr
+      - Script.js
+      - SpectaclesInteractionKit
+      - SpectaclesInteractionKit/package.native
+      - Sphere 1.prefab
+      - Sphere 2.prefab
+      - Untitled TypeScript.ts
+  options: 4

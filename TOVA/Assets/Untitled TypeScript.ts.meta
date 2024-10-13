@@ -1,0 +1,41 @@
+- !<AssetImportMetadata/1cb934dd-cdf5-4f95-8422-7eeeb6432182>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> 9432c616-b667-46d4-9866-21f8152c7545
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> 9432c616-b667-46d4-9866-21f8152c7545
+  PackageType: NotAPackage
+  PackagePolicy: CannotBeUnpacked
+  AssetDataMap:
+    TypeScriptAsset: !<own> 14e51756-c380-435b-9aa6-41c0e067c11a
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings/1156037a-a1e4-4475-8658-210cfa7d3883>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<TypeScriptAssetData/14e51756-c380-435b-9aa6-41c0e067c11a>
+  SvgIcon: ""
+  Description: ""
+  InternalVersion: 0
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 00000000-0000-0000-0000-000000000000
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  CurrentVisibility: Editable
+  MaxVisibility: Editable
+  ScriptInputsHidden:
+    objectsToSpawn: false
+  ScriptTypesHidden:
+    {}
+  DefaultScriptInputs:
+    - objectsToSpawn: !<reference.ObjectPrefab[]>
+        - !<reference> 697f840c-041c-407f-abe3-91582b83e8c9
+        - !<reference> 55bf56df-375b-45a3-9322-bba1852f074b
+        - !<reference> 1bfa1197-09e7-4c65-bc7c-d076fb837e48
+        - !<reference> f7eedec1-431d-443c-8a73-9e666aab1478
+        - !<reference> a7b4fcc2-4902-4701-94f7-0e17ebed04ec
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    - "// @input Asset.ObjectPrefab[] objectsToSpawn"
